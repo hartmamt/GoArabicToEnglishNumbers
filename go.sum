@@ -1,0 +1,9 @@
+github.com/01walid/goarabic v0.0.1 h1:3zZHwUpdYTnFlPuKzwD/j/xinIhAeFEoq61aFMJKV9s=
+github.com/01walid/goarabic v0.0.1/go.mod h1:Q+FvyKHDS8E3qNzZ76sdyr2D6yYeDW2QRY0t4Mx4CZI=
+github.com/abdullahdiaa/garabic v0.0.0-20230105201152-4c3eb72be29c h1:hv0YuxeTc/3d90YPDZIzWeYGLoLI1oNk/xcyZ94oI1o=
+github.com/abdullahdiaa/garabic v0.0.0-20230105201152-4c3eb72be29c/go.mod h1:JCJzUt3LLb+rVN+4v7lIBkXp+zmpt9Lz8HmeKjluEjY=
+github.com/mavihq/persian v0.0.0-20210617052201-7c4f3764aa6b h1:iW3SRLyPdoadDvW4FEFblNCnL9pQ7s0FKVeVLenHvVo=
+github.com/mavihq/persian v0.0.0-20210617052201-7c4f3764aa6b/go.mod h1:JLh+/M/1DlhfTOPJRRygjs9r/t+lr7vPP3OpA+Wax/4=
+golang.org/x/text v0.3.6 h1:aRYxNxv6iGQlyVaZmk6ZgYEDa+Jg18DxebPSrd6bg1M=
+golang.org/x/text v0.3.6/go.mod h1:5Zoc/QRtKVWzQhOtBMvqHzDpF6irO9z98xDceosuGiQ=
+golang.org/x/tools v0.0.0-20180917221912-90fa682c2a6e/go.mod h1:n7NCudcB/nEzxVGmLbDWY5pfWTLqBcC2KZ6jyYvM4mQ=
